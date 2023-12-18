@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BirthdayApp</string>
+    <string name="hb">Happy Birthday InsertPerson</string>
+    <string name="congrats">Congratulations</string>
+    <string name="go_back">go to previous screen</string>
+    <string name="do_not_press">⚠Do Not Press</string>
+    <string name="message">Happiest of birthday\'s . You are such a wonderful person
+        and I\'m so lucky to have you in my life. You always make me laugh, support me
+        when I\'m down, and inspire me to be a better version of myself. You deserve all
+        the happiness and love in the world, and I hope this year brings you many amazing
+        opportunities and experiences. Thank you for being you, and for being there for me.
+        You are the best!</string>
+</resources>
